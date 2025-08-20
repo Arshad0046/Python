@@ -1,4 +1,4 @@
-'''#a num pos or neg
+#a num pos or neg
 num=10
 if num>0:
     print('positive')
@@ -326,4 +326,4 @@ sum2=sum2//n2
 if(sum1==sum2):
     print('it is a friendly number')
 else:
-    print('not a friendly number')'''
+    print('not a friendly number')
